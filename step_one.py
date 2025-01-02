@@ -39,6 +39,7 @@ for progect in progct:
   title.append( b)
 print( 'Найдено катигорий = >>> ',len(progct))
 
+
 #file = open('catigories/catigories.txt', 'w')
 #for progect in progct:
   #pro_str = str(progect) + '\n'
